@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    display: flex;
+    max-width: 1550px;
+    margin: 0 auto ;
+}
+
+.row{
+    display: flex;    
+    
+}
+.search{
+    display: flex;
+    align-items: center;  
+    justify-content: flex-end;
+}
+.click{
+    width: 80px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.options{
+    margin-left: 50px;
+    margin-top: 14px;
+    height: 25px;
+    width: 100px;
+    border: none;
+
+
+}
+header{
+    height: 60px;
+}
+.iinput{
+    height: 35px;
+    width: 200px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+.registration{
+    height: 35px;
+    width: 200px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+.inter{
+    height: 35px;
+    width: 200px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+.batton{
+    height: 23px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 45%;
+}
+
+
